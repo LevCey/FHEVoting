@@ -1,6 +1,6 @@
 pragma solidity ^0.8.24;
 
-import {FHE, ebool, externalEbool} from "@fhevm/solidity/lib/FHE.sol";
+import { FHE, ebool, externalEbool } from "@fhevm/solidity/lib/FHE.sol";
 import {SepoliaConfig} from "@fhevm/solidity/config/ZamaConfig.sol";
 
 contract FHEVoting is SepoliaConfig {
