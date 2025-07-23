@@ -7,7 +7,7 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
-    "types": ["node", "mocha", "hardhat"],
+    "types": ["hardhat-deploy", "hardhat", "node", "mocha"],
     "typeRoots": ["./node_modules/@types", "./types"]
   },
   "include": ["./scripts", "./test", "./deploy", "./typechain-types"]
