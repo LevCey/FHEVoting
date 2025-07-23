@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@fhevm/hardhat-plugin": "^0.0.1-0",
+    "@fhevm/mock-utils": "^0.0.1-0",
+    "@fhevm/solidity": "^0.7.0",
+    "@zama-fhe/oracle-solidity": "^0.0.4-0"
+  }
+}
