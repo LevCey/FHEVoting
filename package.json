@@ -3,6 +3,9 @@
     "@fhevm/hardhat-plugin": "^0.0.1-0",
     "@fhevm/mock-utils": "^0.0.1-0",
     "@fhevm/solidity": "^0.7.0",
-    "@zama-fhe/oracle-solidity": "^0.0.4-0"
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^24.1.0",
+    "@zama-fhe/oracle-solidity": "^0.0.4-0",
+    "hardhat-deploy": "^1.0.4"
   }
 }
