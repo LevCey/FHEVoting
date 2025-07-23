@@ -38,3 +38,4 @@ This contract allows users to cast confidential votes (yes/no) using Fully Homom
 - `@fhevm/solidity`, `@fhevm/hardhat-plugin`
 
 
+![alt text](image.png)
